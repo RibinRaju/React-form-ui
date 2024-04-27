@@ -24,3 +24,9 @@ label.required::after {
     margin-left: 4px;
     color: red;
   }
+  input[type="checkbox"]{
+    
+    width: 25px; 
+  height: 25px;
+
+  }
